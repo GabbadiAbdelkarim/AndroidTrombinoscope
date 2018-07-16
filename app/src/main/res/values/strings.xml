@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PFA_Application</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_opened">Choisir un item</string>
+    <string name="drawer_closed">Trambinoscop</string>
+    
+    <string name="exhibits_feed">https://raw.githubusercontent.com/GabbadiAbdelkarim/Android/master</string>
+    <string name="gallery_feed">https://raw.githubusercontent.com/GabbadiAbdelkarim/Android/master/</string>
+</resources>
